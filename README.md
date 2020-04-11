@@ -1,6 +1,8 @@
 # swift_av_audio_background_play
 
 
+https://www.notion.so/Swift-background-audio-player-77bb33e7e16d4f67a082d0a9b7d327aa
+
 
 정말 말도안되게 쉬움 
 
